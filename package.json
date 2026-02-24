@@ -1,0 +1,23 @@
+{
+  "name": "67-marriages",
+  "version": "1.0.0",
+  "description": "67 mariages website - www.67mariages.onrender.com",
+  "homepage": "https://github.com/LeoMaskell/67-marriages#readme",
+  "bugs": {
+    "url": "https://github.com/LeoMaskell/67-marriages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoMaskell/67-marriages.git"
+  },
+  "license": "MIT",
+  "author": "Leo Maskell",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
